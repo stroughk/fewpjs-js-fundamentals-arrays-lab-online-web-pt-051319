@@ -1,2 +1,3 @@
 // Write your solution here!
-petsarray.push('Odie');
+const append = ["Milo", "Otis", "Garfield"];
+append.push('Odie');
